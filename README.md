@@ -1,2 +1,2 @@
-# d6-solo-project
+# D6-Solo-Project
  
